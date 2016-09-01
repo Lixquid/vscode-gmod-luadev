@@ -3,6 +3,7 @@
 ## 0.1.1
 
 - Moved Changelog to its own file.
+- Updated manifest file.
 
 ## 0.1.0
 
