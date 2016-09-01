@@ -61,10 +61,3 @@ following keybinding shortcut:
 GitHub.
 
 GMod LuaDev is licensed under the GPLv3.
-
-## Changelog
-
-- `0.1.0`
-	- Initial Version
-	- Added sending to `server`, `shared`, `clients`, `self`, and `client`.
-	- Added configuration options `port` and `hidescriptname`.
